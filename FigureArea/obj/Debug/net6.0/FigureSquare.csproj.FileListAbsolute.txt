@@ -1,0 +1,12 @@
+C:\Users\Yaniddze\source\repos\FigureArea\FigureArea\bin\Debug\net6.0\FigureSquare.deps.json
+C:\Users\Yaniddze\source\repos\FigureArea\FigureArea\bin\Debug\net6.0\FigureSquare.dll
+C:\Users\Yaniddze\source\repos\FigureArea\FigureArea\bin\Debug\net6.0\FigureSquare.pdb
+C:\Users\Yaniddze\source\repos\FigureArea\FigureArea\obj\Debug\net6.0\FigureSquare.csproj.AssemblyReference.cache
+C:\Users\Yaniddze\source\repos\FigureArea\FigureArea\obj\Debug\net6.0\FigureSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaniddze\source\repos\FigureArea\FigureArea\obj\Debug\net6.0\FigureSquare.AssemblyInfoInputs.cache
+C:\Users\Yaniddze\source\repos\FigureArea\FigureArea\obj\Debug\net6.0\FigureSquare.AssemblyInfo.cs
+C:\Users\Yaniddze\source\repos\FigureArea\FigureArea\obj\Debug\net6.0\FigureSquare.csproj.CoreCompileInputs.cache
+C:\Users\Yaniddze\source\repos\FigureArea\FigureArea\obj\Debug\net6.0\FigureSquare.dll
+C:\Users\Yaniddze\source\repos\FigureArea\FigureArea\obj\Debug\net6.0\refint\FigureSquare.dll
+C:\Users\Yaniddze\source\repos\FigureArea\FigureArea\obj\Debug\net6.0\FigureSquare.pdb
+C:\Users\Yaniddze\source\repos\FigureArea\FigureArea\obj\Debug\net6.0\ref\FigureSquare.dll
